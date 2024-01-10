@@ -1,5 +1,5 @@
 project_id      = "extreme-quasar-399203"
-keyring         = "gcp-key-ring-aab"
+keyring         = "gcp-key-ring-aabb"
 location        = "global"
 keys            = ["my-key-00", "my-key-11"]
 prevent_destroy = false
