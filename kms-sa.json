@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "extreme-quasar-399203",
+    "private_key_id": "8107b6e97abfcad6cf63496c19ee42fe510b7309",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTixvQbwSd0xwV\nLaovrvfMerjrshv31Y6+toPmqkBCnBqEEY/THcK1F7njB2z0ov4s5ZRKBmpClVpJ\n/opWlpRlQQwR90Mp/V4OfpQp6HJSDdJAjuIjfIxQyxsShQ5MrkMWFAhxg18zZxPW\nKKRvvEXhYa8nnIafMCjOj27sRCiNyjHBrOShamG5IC1pCaAvskrCf1Dabo+tSNm+\n5KTa3r9QfYnt9pFfvaTdmjO06oPB1MRbEU7HMdUwEtqrTLDwFhSHgTb+cBDESOR0\nopio18IeYcLx7VQXHzDPy2gRLCPPMwDNLk30U+rmsMRHeMZ6InqL82NgRmxNgvf3\nnR2RPUHxAgMBAAECggEAAdnmSOkny6/Ev6SyKA+qaHYsdxeMahtKz/1t4w9bV5nh\nG4XB0fGhOg92l3eBqxRgEAmERi+PL3z6GMqq8D4KF2a90cxtoIjwkUTnTASWN4Sa\ncekuLmxRGAXm+z8B1Ibz3FYZitDA/QSqZkXdxoKJxAKkUz7p6Ku1t7UGnfesuSzn\nNsfwlndNcFaOT4hcPLeiDAR/LfNOEj8fTfE5PoKAt4ySufYH0Xj7ERAG6YDAzhcS\n+EWtkH4ohq4hbp1rnORI6RCFPoMnUS8d7wrPJytOJiw/8qPKGvBsIbG91wSH9Bul\nG4INNJBoQxnZ9yQ9Uqxz4eo1bSKPBRB+hU0QPis2qQKBgQDsSRG3mjLrT7CJVGw4\nbJUPnTZudEn0wQOZt44Lq5ESFSKv3JFphyPsM5SY0r6LXABez7wg+xpN9wSZvgJV\nWfSoQFM4fH8cuJqxpAW1OjRHy5+H17QaWfa2M3hotCCeVCWnEcOqwLy5PmVh/DjC\nGHnBBgyfnwxcUPIa2YU/NaN33QKBgQDlMZATLhnSFKA66wZoZae28wwWpjSqTNNm\nY4Dr4mpd+dSXUY82zGoqBpq1NObd6HNIJtSxoHhid+zys1OhTk8Kz5SGMWo43GS3\nUbtg4AnHx8GB5zrm1UAbCGe9LubuUX6ipbIvwpsQ2DrWlF1+gXPNq1tXWpDQi6AA\nskEjqqE7JQKBgEZvQajJfoRGrQlC8T+gno6Y/rDOWX1sS/Z2kRFJg2Uwh7aEuZQL\nhNnURmeH6uT/99xLcHkkYSL8j5KE4Y0v046UHjqoYfvdy79IdasgPpVoTZXg5v8z\n8ic+EJalm1OXIeI7mWg9LATMZMxgs0qooSK4+upaLwUV3BXE4cOF6cTBAoGBANAk\nA6C3hDF6E82N9QLIFtiZvweupzNlk7JvePw/YbO4l+1X30S3vU4vMz6PLX6nhFIp\nGY26mrlqCeCbJL7f+/5oZ4y6wamj1T96VT30GE27Rivvz1kknxQtvPBc8NHLZsLU\n0Y54IBTbGgwXLxUdAQrtrIUXNV5+/q7DM07tvYCVAoGBAMl3l+T/UyE8Os64W56F\nQ7UA9UbABiXU0VrNwEBa0HikScdGjI+H0Ysv126EAGWwuesXNk9++xFbYjcF3DQi\nXSNyODOAjtVbQeFmhc3Ef3EYM6XEGlhW9CE1OkQYkX5J2MN9ME2lYoxbaUlY4NqZ\nMmO1wxOiJLmQS6XGYZo0UhaW\n-----END PRIVATE KEY-----\n",
+    "client_email": "sa2-kms@extreme-quasar-399203.iam.gserviceaccount.com",
+    "client_id": "102481485182449430665",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa2-kms%40extreme-quasar-399203.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
